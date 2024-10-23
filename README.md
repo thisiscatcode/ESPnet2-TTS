@@ -38,7 +38,7 @@ This repository provides a Flask-based web service for converting text to speech
 
 1. **Run the Flask application**:
    ```bash
-   python app.py
+   python espnet2_service.py
    ```
 
 2. **Send a POST request to convert text to speech**:

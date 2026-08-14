@@ -1,0 +1,6 @@
+Flask>=3.0,<4
+espnet>=202402
+espnet-model-zoo>=0.1.7
+gunicorn>=22,<24
+soundfile>=0.12,<1
+torch>=2.2,<3
